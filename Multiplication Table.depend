@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1529837340 source:f:\problem solving\multiplication table\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
